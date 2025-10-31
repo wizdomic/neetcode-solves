@@ -17,11 +17,4 @@ class Solution {
         return -1;
     }
 }
-public class Binary_Search {
-    public static void main(String[] args) {
-        int[] nums ={-1,0,2,4,6,8};
-        Solution sol = new Solution();
-        System.out.println(sol.search(nums,4));
-    }
-}
 
